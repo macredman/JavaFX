@@ -1,4 +1,10 @@
 package application;
+
+/*Mackenzie Redman
+ * 5/9/2016
+ * thenewboston youtube tutorial
+ * oracle tutorial
+ */
 	
 import javafx.application.Application;
 import javafx.event.EventHandler;
